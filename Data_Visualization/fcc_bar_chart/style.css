@@ -1,0 +1,16 @@
+.bar{
+  fill: blue;
+}
+
+.bar:hover{
+  fill: green;
+}
+
+#svg-target{
+  width: 100%;
+  max-width: 1000px;
+}
+
+text {
+  pointer-events: none
+}
