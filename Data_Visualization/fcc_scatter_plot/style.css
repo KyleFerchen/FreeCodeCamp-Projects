@@ -1,0 +1,23 @@
+#chart{
+    width: 100%;
+    max-width: 1000px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+    position: relative;
+}
+
+#tooltip {
+  width: 300px;
+  background-color: #9d86bf;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  opacity: 1;
+  position: absolute;
+  display: none;
+  word-wrap: break-word;
+}
+
+text {
+  pointer-events: none
+}
