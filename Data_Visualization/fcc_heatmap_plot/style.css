@@ -1,0 +1,15 @@
+#chart{
+    background-color: #f7f7f7;
+  }
+  
+  #tooltip {
+    width: 75px;
+    background-color: #2e2e2e;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    opacity: 1;
+    position: absolute;
+    display: none;
+    word-wrap: break-word;
+  }
