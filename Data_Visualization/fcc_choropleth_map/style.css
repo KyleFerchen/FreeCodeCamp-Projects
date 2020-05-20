@@ -1,0 +1,22 @@
+#chart{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .states {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+  }
+  
+  #tooltip{
+    background-color: #f0f0f0;
+    padding: 10px;                
+    font: 12px Arial;   
+    border: 0px;        
+    border-radius: 2px;            
+    pointer-events: none;  
+    position: absolute;
+    opacity: 0;
+  }
